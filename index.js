@@ -10,9 +10,6 @@ let body = document.body;
     body.style.fontSize = "40pt";
     body.style.color = "red";
     body.innerHTML = "Нажми на кнопу, получи прикол!"
-let all = document.querySelector("*");
-  all.style.padding = "0";
-  all.style.margin = "0";
 let buttAround = document.createElement("div");
 let button = document.createElement("div");
 
