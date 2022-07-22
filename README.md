@@ -1,1 +1,1 @@
-# prank-button
+[prank-button]()
